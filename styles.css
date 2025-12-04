@@ -1,3 +1,7 @@
+/* Ensure hero section fills the viewport height */
+.hero {
+    min-height: 100vh;
+}
 /* ==========================================
    RESET E CONFIGURAÇÕES GLOBAIS
    ========================================== */
